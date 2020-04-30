@@ -1,0 +1,360 @@
+/******************************************** RESPONSIVE STYLES*****************************************/
+
+/*------------------------------------------------------------------------------------------------------*
+
+/*******************************************  Author: Dynasty3 *****************************************/
+
+/**********************************  URL: http://www.dynasty3.co.uk ************************************/
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+
+
+/* ---------- MAX 1500PX ---------- */
+
+@media only screen and (max-width:1500px) {
+
+	
+
+}
+
+
+
+/* ---------- MAX 1280PX ---------- */
+
+@media only screen and (max-width:1280px) {
+
+
+
+}
+
+
+
+/* ---------- MAX 1199PX ---------- */
+
+@media only screen and (max-width:1199px) {
+
+
+
+
+
+}
+
+
+
+
+
+/* ---------- MAX 1112PX ---------- */
+
+@media screen and (max-width:1112px) {
+
+
+
+}
+
+	
+
+/* ---------- MAX 1080PX ---------- */
+
+@media screen and (max-width:1080px) {
+
+
+
+}
+
+
+
+
+
+
+
+/* ---------- MAX 1024PX ---------- */
+
+@media screen and (max-width:1024px) {
+
+
+
+
+
+}
+
+
+
+/* ---------- MAX 991PX ---------- */
+
+@media only screen and (max-width:991px) {
+
+
+
+}
+
+
+
+
+
+
+
+/* ---------- MAX 800PX ---------- */
+
+@media only screen and (max-width:800px) {
+
+
+
+
+
+
+
+	
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* ---------- MAX 768PX ---------- */
+
+@media only screen and (max-width:768px) {
+.logo_area {
+	width: 45%;
+    text-align:left;
+}
+.menu_area {
+    width:45%;
+    float: right;
+    height: auto;
+    margin-top:28px;
+    margin-bottom: 10px;
+}
+.banner {
+    height: auto;
+}
+.form_area {
+    margin-top: 15px;
+	padding-left: 5%;
+    padding-right: 5%;
+}
+.retailer_area h1 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.retailer {
+    margin-top: 0px;
+}
+section.retailer_area {
+    padding-bottom:0px;
+}
+section.latest {
+    margin-top: 10px;
+    padding-bottom: 30px;
+}
+section.latest h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.blog {
+    margin-top: 10px;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.dnt3-menu{
+    background:transparent;
+    width: 100%;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #ddd;
+}
+/*inner*/
+.competion-content {
+    margin-top: 0px;
+}
+.competion-content h2 {
+    text-align:left;
+    font-size:18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+.competion-content p {
+    text-align:left;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+.competion-form {
+    width: 100%;
+}
+.competion-form .bold {
+    margin-left:0px;
+}
+.competion-form form {
+    margin-left:0px;
+    width:100%;
+}
+.competion-img h2 {
+    margin-top:0px;
+	text-align: left;
+}
+.inner-blog-img {
+    margin-top:0px;
+}
+.competion-img p {
+    text-align: left;
+}
+.full-blog-details h1 {
+    font-size: 25px;
+    margin-top: 80px;
+}
+.sidebar {
+    margin-top: 30px;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* ---------- MAX 580PX ---------- */
+
+@media only screen and (max-width:580px){
+
+.logo_area {
+	width: 45%;
+    text-align:left;
+}
+.logo_area img {
+    margin-top: 10px;
+    margin-bottom:0px;
+    width: 95%;
+}
+
+.menu_area {
+    width:100%;
+    float: right;
+    height: auto;
+    margin-top: -38px;
+    margin-bottom: 10px;
+}
+section.banner_area {
+    padding-top: 69px;
+    padding-bottom:0px;
+}
+.banner {
+    height: auto;
+}
+.form_area {
+    margin-top: 15px;
+	padding-left: 5%;
+    padding-right: 5%;
+}
+.retailer_area h1 {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom:5px;
+    margin-top: 8px;
+    text-align: center;
+}
+.retailer {
+    margin-top: 0px;
+}
+section.latest {
+    margin-top: 0px;
+    padding-bottom:30px;
+}
+section.latest h1 {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.blog {
+    margin-top:15px;
+}
+.blog_heading {
+    padding: 2px 15px 4px 15px;
+}
+footer {
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.form_area_bottom h2 {
+    font-size: 15px;
+}
+.social_bookmarks p{
+    margin-bottom: 10px;
+}
+.dnt3-menu{
+    background:transparent;
+    width: 100%;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #ddd;
+}
+/*inner*/
+.inner-heading h1 {
+    margin-top: 10px;
+}
+.competion-content {
+    margin-top: 0px;
+}
+.competion-content h2 {
+    text-align: center;
+    font-size:18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+.competion-content p {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+.competion-form {
+    width: 100%;
+}
+.competion-form .bold {
+    margin-left:0px;
+}
+.competion-form form {
+    margin-left:0px;
+    width:100%;
+}
+.competion-img h2 {
+    margin-top:0px;
+}
+.inner-blog-img {
+    margin-top:0px;
+}
+.full-blog-details h1 {
+    font-size: 25px;
+    margin-top: 80px;
+}
+.sidebar {
+    margin-top: 30px;
+}
+
+
+
+
+
+}
